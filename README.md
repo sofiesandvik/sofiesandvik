@@ -1,1 +1,2 @@
-- Computer Science student at The Norwegian University of Science and Technology
+- hello world .....
+- goodbye
